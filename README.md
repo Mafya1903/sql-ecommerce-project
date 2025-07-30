@@ -33,7 +33,7 @@ Bu repo, bir e-ticaret veritabanı şeması oluşturulup temel analizlerin yapı
 ## Kullanım/Çalıştırma
 
 1. SQL dosyalarını sırasıyla PostgreSQL’de çalıştırınız.
-2. 2. proje için öncelikle veri yükleme adımlarını izleyiniz.
+2. Veri yükleme adımlarını izleyiniz.
 3. Output alınan CSV’ler, Power BI’da görselleştirme için kullanılabilir.
 4. PBIX dosyasını Power BI Desktop ile açabilirsiniz.
 
